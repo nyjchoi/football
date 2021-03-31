@@ -6,3 +6,6 @@ Manchester City
 
 ### Coach Name
 Pep Guardiola
+
+#### Current Best Player
+Kun Aguero
